@@ -1,4 +1,4 @@
-# unit-testing-workshop
+# unit-testing-workshop (Deprecated)
 Repositiry for unit testing workshop
 
 #### content-table:
@@ -23,3 +23,9 @@ Template ?
 Links:  
 https://martinfowler.com/bliki/UnitTest.html  
 good practices info: https://www.thoughtworks.com/insights/blog/write-better-tests-5-steps
+
+
+#### IDeas:
+
+1. Hacer pruebas sociales con un componente muy lento para luego hacer un stub y ver los beneficios.
+2.     
